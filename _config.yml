@@ -16,7 +16,7 @@ owner:
   name:   "Drone Recovery"
   avatar: avatar.png
   favicon: favicon.ico
-  description: "Photo Journal"
+  description: "A Journal"
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
