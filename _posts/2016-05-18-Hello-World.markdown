@@ -3,10 +3,10 @@ layout:     post
 title:      "Hello World"
 subtitle:   "A New Beginning"
 image:
-  feature: "pc001.jpg"
+  feature: "drone-rec-helloworld.jpg"
 date:       2016-05-18
 author:     "owner_name"
-header-img: "img/postcover/pc001.jpg"
+header-img: "img/postcover/drone-rec-helloworld.jpg"
 tags: [intro]
 categories: [intro]
 comments: false
