@@ -11,7 +11,6 @@ tags: [intro]
 categories: [intro]
 comments: false
 ---
-
 <p>We have reached a difficult stage in our struggle with Audrey's son's battle with depression, and pharmaceutical drug addiction. Over the last four to five years we have tried moving him to new cities, introducing him to new living and work environments. None of it was working, so last summer Audrey put him into a treatment program in LA, where he has been since, until he showed up after getting kicked out of the program, and said he was using again.</p>
 <p>Even if we wanted, we didn't have the money to put him back into treatment, living with us in his condition isn't an option, and we couldn't just put him out on the streets. With some experience in this area, I had to do something. In the mid-1990s I had my own struggle with hard drugs, which I finally left behind through a combination of hiking around the mountains of Oregon, and eventually developing my career as a software architect.</p>
 <p>We had to do something drastic. he was in desperate need of help, and it was clear to me that he was in no condition to help himself--so I stepped in. We rented a truck and headed into the mountains out of Los Angeles. We spent a few nights "adjusting" in hotels along the way, where he had his own room, taking things slow.</p>
@@ -47,14 +46,13 @@ comments: false
 <p>As we were driving down, there was a log partially blocking the road, which Isaiah suggested we clear. We quickly got to work with our axes, chopping it into thirds, which allowed us to easily roll out of the way.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/log-axes.png" alt="" width="100%" /></p>
 <p>Of course, it took a little longer than we expected, but this was the beginning of our second work-related focus--helping clear trails along the way. It would give us an additional purpose as we hiked, taking photos, and videos with our new equipment.</p>
-<p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/log-cut.png" alt="" width="100%" /></p>
 <p>Once we were done clearing the road the weather had let up some, so we turned around and continued down the trail to Babyfoot Lake. The trail is rough, but fortunately someone had worked hard to clear many of the snags which had fallen over the trail through the burn area.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/burn-path.png" alt="" width="100%" /></p>
 <p>The area around Babyfoot Lake was burned in the Biscuit Fire, a wildfire that took place in 2002 burning nearly 500,000 acres. At first glance, everything was burnt, but then you begin to see the rebirth that is taking place--it is everywhere!</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/forest-rebirth.png" alt="" width="100%" /></p>
 <p>The lake looked nothing like the small mountain lake in the woods of my youth, but it was still very beautiful. It was another wet and cold day but provided us with plenty to do and see. Again we came down to the valley floor with daylight left, so I set out to on my favorite swimming places, "whiskey hole" to plan for a future drone flight down the creek bed.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/whiskey-creek.png" alt="" width="100%" /></p>
-<p>I would like to conduct a drone flight down the creekbed when the weather gets better--starting at the parking lot, and ending at the crystal clear swimming pool below.</p>
+<p>I would like to conduct a drone flight down the creek bed when the weather gets better--starting at the parking lot, and ending at the crystal clear swimming pool below.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/whiskey-hole.png" alt="" width="100%" /></p>
 <p>This al just concluded a couple hours ago. I think we are about a week into this journey? To be honest I've kind of lost a sense of time. We are sore. We are tired. I will keep up this pace throughout the summer. I have a list of 30+ trails targeted for coming weeks&nbsp;and more planned after that.</p>
 <p>I do not know what the summer will hold, but I'm hoping to help him get healthy, strong, and build confidence. Along the way, I also want to help him build his drone, photography, videography, and storytelling skills. Maybe teach him a little about the cloud side of all of this as well.</p>
