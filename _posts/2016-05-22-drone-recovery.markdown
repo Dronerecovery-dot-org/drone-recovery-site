@@ -6,7 +6,7 @@ image:
   feature: "swinging-bridge.png"
 date:       2016-05-22
 author:     "Kin Lane"
-header-img: "img/postcover/swinging-bridge.png"
+header-img: "img/postcover/swinging-bridge_cov.png"
 tags: [intro]
 categories: [intro]
 comments: false
