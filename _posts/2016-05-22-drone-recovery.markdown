@@ -5,8 +5,8 @@ subtitle:   "A New Beginning"
 image:
   feature: "drone-rec-helloworld.jpg"
 date:       2016-05-22
-author:     "owner_name"
-header-img: "/img/swinging-bridge.png"
+author:     "Kin Lane"
+header-img: "img/swinging-bridge.png"
 tags: [intro]
 categories: [intro]
 comments: false
