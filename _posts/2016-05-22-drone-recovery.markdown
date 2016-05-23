@@ -11,9 +11,10 @@ tags: [intro]
 categories: [intro]
 comments: false
 ---
-<p>We have reached a difficult stage in our struggle with Audrey's son's battle with depression, and pharmaceutical drug addiction. Over the last four to five years we have tried moving him to new cities, introducing him to new living and work environments. None of it was working, so last summer Audrey put him into a treatment program in LA, where he has been since, until he showed up after getting kicked out of the program, and said he was using again.</p>
+<p>We have reached a difficult stage in our struggle with Audrey's son's battle with depression and pharmaceutical drug addiction. Over the last four to five years we have tried moving him to new cities, introducing him to new living and work environments. None of it was working, so last summer Audrey put him into a treatment program in LA, where he has been since, until he showed up after getting kicked out of the program, and said he was using again.</p>
+
 <p>Even if we wanted, we didn't have the money to put him back into treatment, living with us in his condition isn't an option, and we couldn't just put him out on the streets. With some experience in this area, I had to do something. In the mid-1990s I had my own struggle with hard drugs, which I finally left behind through a combination of hiking around the mountains of Oregon, and eventually developing my career as a software architect.</p>
-<p>We had to do something drastic. he was in desperate need of help, and it was clear to me that he was in no condition to help himself--so I stepped in. We rented a truck and headed into the mountains out of Los Angeles. We spent a few nights "adjusting" in hotels along the way, where he had his own room, taking things slow.</p>
+<p>We had to do something drastic. he was in desperate need of help, and it was clear to me that he was in no condition to help himself -- so I stepped in. We rented a truck and headed into the mountains out of Los Angeles. We spent a few nights "adjusting" in hotels along the way, where he had his own room, taking things slow.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/first-days.png" alt="" width="100%" /></p>
 <p>Eventually, we ended up at Yosemite National Park in the Sierras, taking in the beauty of the valley, putting some thought into what would do next...</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/yosemite.png" alt="" width="100%" /></p>
