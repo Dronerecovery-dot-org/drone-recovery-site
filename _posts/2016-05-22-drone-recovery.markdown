@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Drone Recovery"
-subtitle:   "A New Beginning"
+subtitle:   "Resetting"
 image:
   feature: "swinging-bridge-cov.png"
 date:       2016-05-22
@@ -55,7 +55,7 @@ comments: false
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/whiskey-creek.png" alt="" width="100%" /></p>
 <p>I would like to conduct a drone flight down the creek bed when the weather gets better--starting at the parking lot, and ending at the crystal clear swimming pool below.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/whiskey-hole.png" alt="" width="100%" /></p>
-<p>This al just concluded a couple hours ago. I think we are about a week into this journey? To be honest I've kind of lost a sense of time. We are sore. We are tired. I will keep up this pace throughout the summer. I have a list of 30+ trails targeted for coming weeks&nbsp;and more planned after that.</p>
+<p>This all just concluded a couple hours ago. I think we are about a week into this journey? To be honest I've kind of lost a sense of time. We are sore. We are tired. I will keep up this pace throughout the summer. I have a list of 30+ trails targeted for coming weeks&nbsp;and more planned after that.</p>
 <p>I do not know what the summer will hold, but I'm hoping to help him get healthy, strong, and build confidence. Along the way, I also want to help him build his drone, photography, videography, and storytelling skills. Maybe teach him a little about the cloud side of all of this as well.</p>
 <p>This is Drone Recovery. I didn't plan this. I hatched and evolved this idea driving from LA into the Sierra Nevada Mountains, into Nevada, and on Peterson Mountain. I am making this up as I go along, pushing us ever forward, building strength, confidence, momentum, and drone, video, and photo skills along the way.</p>
 <p>My goal is that he comes out of the other side in the fall, with a new view on life, and the ability to keep up the momentum going on his own.</p>
