@@ -3,7 +3,7 @@ layout:     post
 title:      "Drone Recovery"
 subtitle:   "A New Beginning"
 image:
-  feature: "drone-rec-helloworld.jpg"
+  feature: "swinging-bridge.png"
 date:       2016-05-22
 author:     "Kin Lane"
 header-img: "img/swinging-bridge.png"
