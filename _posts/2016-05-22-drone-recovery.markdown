@@ -6,7 +6,7 @@ image:
   feature: "drone-rec-helloworld.jpg"
 date:       2016-05-22
 author:     "owner_name"
-header-img: "https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/swinging-bridge.png"
+header-img: "/img/swinging-bridge.png"
 tags: [intro]
 categories: [intro]
 comments: false
