@@ -3,10 +3,10 @@ layout:     post
 title:      "Drone Recovery"
 subtitle:   "Resetting"
 image:
-  feature: "img/postcover/swinging-bridge-cov.jpg"
+  feature: "swinging-bridge-cov.jpg"
 date:       2016-05-22
 author:     "Kin Lane"
-header-img: "img/postcover/swinging-bridge-cov.jpb"
+header-img: "img/postcover/swinging-bridge-cov.jpg"
 tags: [intro]
 categories: [intro]
 comments: false
