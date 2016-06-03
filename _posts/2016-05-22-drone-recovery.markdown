@@ -29,7 +29,7 @@ comments: false
 <p>We had our way forward. We'd travel the mountains documenting everything we saw with our new drone, and GoPro, developing our skills along the way. Along the way, we could keep ourselves busy with work like digging for gems, while documenting the story.</p>
 <p>We had done well in the mountains of Nevada / California, hopefully setting the tone for what we were now calling Drone Recovery.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/crystals.png" alt="" width="100%" /></p>
-<p>We came down off the mountain, and Audrey had to head back to LA for work, and but the kid and I continued to follow the mountains north. We purchased a used Subaru in Nevada, geared up, and began our trip.</p>
+<p>We came down off the mountain, and Audrey had to head back to LA for work, and the kid and I continued to follow the mountains north. We purchased a used Subaru in Nevada, geared up, and began our trip.</p>
 <p>We had planned to stop in Mt Shasta and do some more drone flight time in, but unfortunately the rain and wind prevented us from taking flight. So we continued north, ending up in Oregon by the weekend. After the obligatory Mom visit and visiting some friends, we headed up to one of the most familiar hikes for me at the Oregon Caves National Monument -- The Big Tree Loop Trail.</p>
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/big-tree-loop-trail.png" alt="" width="100%" /></p>
 <p>It was wet and cold, so again there was no drone flight, but we hiked 2 miles in and then the same back out, after seeing the widest Douglas Fir tree you will ever see.</p>
