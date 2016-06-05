@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Up on Peterson Mountain"
-subtitle:   "Thoughts on "
+subtitle:   "Thoughts from the Early Days of Drone Recovery"
 image:
   feature: "peterson_mountain.jpg"
 date:       2016-06-04
