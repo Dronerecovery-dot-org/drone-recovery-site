@@ -8,7 +8,7 @@ date:       2016-05-22
 author:     "Kin Lane"
 header-img: "img/postcover/swinging-bridge-cov.jpg"
 tags: [intro]
-categories: [intro]
+categories: [explaining, traveling]
 comments: false
 ---
 <p>We have reached a difficult stage in our struggle with Audrey's son's battle with depression and pharmaceutical drug addiction. Over the last four to five years we have tried moving him to new cities, introducing him to new living and work environments. None of it was working, so last summer Audrey put him into a treatment program in LA, where he has been since, until he showed up recently having been kicked out of the program. He admitted he was using again.</p>
