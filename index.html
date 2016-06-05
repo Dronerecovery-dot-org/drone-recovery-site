@@ -73,57 +73,66 @@ layout: home
 
 <div id="footer" role="contentinfo">
 		<ul class="soc-icons">
-
-                {% if site.instagram_username %}
-			<li>
-   <a href="https://instagram.com/{{ site.instagram_username }}" style="
-color:#dddddd; target="_blank" title="instagram">
-                       <i class="fa fa-instagram"></i>
-                     </span>
-</a></li>
-    {% endif %}
-                    {% if site.flickr_username %}
+                
+                {% if site.flickr_username %}
 						<li>
    <a href="https://flickr.com/photos/{{ site.flickr_username }}" style="
 color:#dddddd; target="_blank" title="flickr">
               <i class="fa fa-flickr"></i>
                      </span>
  </a></li>	
-     {% endif %}
-                    {% if site.github_username %}
-                <li>
-   <a href="https://github.com/{{ site.github_username }}" style="
-color:#dddddd; target="_blank" title="Github">
-              <i class="fa fa-github"></i>
-                     </span>
-                   {% endif %}
-                     {% if site.twitter_username %}
+                {% endif %}
+
+                {% if site.twitter_username %}
                 <li>
    <a href="https://twitter.com/{{ site.twitter_username }}" style="
 color:#dddddd; target="_blank" title="twitter">
               <i class="fa fa-twitter"></i>
                      </span>
-                   {% endif %}
-                     {% if site.facebook_username %}
+</a></li>                     
+                {% endif %}
+
+                {% if site.facebook_username %}
                 <li>
    <a href="https://facebook.com/{{ site.facebook_username }}" style="
 color:#dddddd; target="_blank" title="facebook">
               <i class="fa fa-facebook"></i>
                      </span>
-                   {% endif %}
-                      {% if site.youtube_username %}
+</a></li>                     
+                {% endif %}
+
+                {% if site.youtube_username %}
                 <li>
    <a href="https://youtube.com/channel/{{ site.youtube_username }}" style="
 color:#dddddd; target="_blank" title="youtube">
               <i class="fa fa-youtube"></i>
                      </span>
-                   {% endif %}
-<li>
+</a></li>                     
+                {% endif %}
+
+                {% if site.instagram_username %}
+      <li>
+   <a href="https://instagram.com/{{ site.instagram_username }}" style="
+color:#dddddd; target="_blank" title="instagram">
+                       <i class="fa fa-instagram"></i>
+                     </span>
+</a></li>
+                {% endif %}
+
+                {% if site.github_username %}
+                <li>
+   <a href="https://github.com/{{ site.github_username }}" style="
+color:#dddddd; target="_blank" title="Github">
+              <i class="fa fa-github"></i>
+                     </span>
+</a></li>                     
+                {% endif %}
+
+                <li>
     <a href="mailto:{{ site.email }}" style="
 color:#dddddd; target="_blank" title="Email">
               <i class="fa fa-envelope-o"></i></span>
           </a> </li>
-	
 					
 		</ul>	
 	</div>
