@@ -7,10 +7,12 @@ image:
 date:       2016-06-04
 author:     "Kin Lane"
 header-img: "img/postcover/peterson_mountain.jpg"
-tags: [peterson, quartz, reno, nevada, california]
-categories: [peterson, quartz, reno, nevada, california]
+tags: [peterson mountain, quartz, reno, nevada, california]
+categories: [peterson mountain, quartz, reno, nevada, california]
 comments: false
 ---
+May 15 - 18
+
 You can get to Peterson Mountain by driving just past Hallelujah Junction outside Reno, Nevada. Aptly named, and that is where Drone Recovery was born. The idea of this site started to come together as we drove through the Sierras out of Los Angeles but was cemented in the hot sun and dirt of Peterson Mountain.
 
 You would not think the mountain is any more special than the other mountains and hills around you as you drive north on Highway 395 from Reno. But just beneath the dirt, there are quartz crystals of all shapes and sizes. This is what we initially decided to focus our time and energy on: moving dirt and looking for crystals in the hot desert sun.
@@ -27,7 +29,7 @@ As we prepared to head up the mountain to dig, we both agreed that we should wor
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/peterson_blog1.jpg" alt="" width="100%" /></p>
 
-I don't know if you have dug for crystals, but it is gloriously hard work. You have dig, dig, and dig, but you have to do it carefully, because if you are lucky, every couple inches you find some gems. Some are prettier than others, and many are not fully formed crystals like you'd expect. But with some hard work, you can find some serious gems. Just when you start feeling too tired to keep digging you find another, and another! It's enough to keep you going, fueled by some sort of gem fever. As you come across balls of mud and strangely shaped rocks, you realize with a little scraping and rubbing, some of them become well formed crystals — something that slows you down, forcing you to be more thoughtful with each shovelful of dirt. That thoughtfulness was omething we needed at this moment.
+I don't know if you have ever dug for crystals, but it is gloriously hard work. You have dig, dig, and dig, but you have to do it carefully, because if you are lucky, every couple inches you find some gems. Some are prettier than others, and many are not fully formed crystals like you'd expect. But with some hard work, you can find some serious gems. Just when you start feeling too tired to keep digging you find another, and another! It's enough to keep you going, fueled by some sort of gem fever. As you come across balls of mud and strangely shaped rocks, you realize with a little scraping and rubbing, some of them become well formed crystals — something that slows you down, forcing you to be more thoughtful with each shovelful of dirt. That thoughtfulness was omething we needed at this moment.
 
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/blog/crystal-dig.png" alt="" width="100%" /></p>
 
