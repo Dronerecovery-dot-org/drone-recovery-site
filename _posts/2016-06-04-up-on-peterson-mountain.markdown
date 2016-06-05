@@ -7,8 +7,8 @@ image:
 date:       2016-06-04
 author:     "Kin Lane"
 header-img: "img/postcover/peterson_mountain.jpg"
-tags: [peterson][quartz][reno][nevada][california]
-categories: [peterson][quartz][reno][nevada][california]
+tags: [peterson, quartz, reno, nevada, california]
+categories: [peterson, quartz, reno, nevada, california]
 comments: false
 ---
 You can get to Peterson Mountain just past Hallelujah Junction outside Reno, Nevada. Aptly named, and that is where Drone Recovery was born. The idea of this site started to come together as we drove through the Sierras out of Los Angeles but was cemented in the hot sun and dirt of Peterson Mountain.
