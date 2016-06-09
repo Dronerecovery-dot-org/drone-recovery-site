@@ -13,11 +13,11 @@ comments: false
 ---
 May 21
 
-When we arrived at the Oregon Caves National Monument in Southern Oregon for our first real hike of our adventure, it was raining. But the sunshine kept coming out briefly, making us feel like we had to continue the hike, even though we knew we’d come out of those misty mountains soaking wet. 
+When we arrived at the Oregon Caves National Monument in Southern Oregon for the first real hike of our adventure, it was raining. But the sunshine kept coming out briefly, making us feel like we had to continue the hike even though we knew we’d come out of those misty mountains soaking wet. 
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/2016-06-09-big-tree-loop-trail-sign.jpg" alt="" width="100%" /></p>
 
-We had worked hard on Peterson Mountain digging for crystals, but it was all an "upper body" workout. Here we embarked on a couple mile hike, much of which was uphill. It worked us. We had to stop regularly, and with the rain starting and stopping every 15 minutes or so, we spent a lot of time sitting under the cover of conifer trees, catching our breath and hiding from as many raindrops as we could.
+We had worked hard on <a href="http://dronerecovery.org/journal/up-on-peterson-mountain/">Peterson Mountain</a> digging for crystals, but it was all an "upper body" workout. Here we embarked on a couple mile hike, much of which was uphill. It worked us. We had to stop regularly, and with the rain starting and stopping every 15 minutes or so, we spent a lot of time sitting under the cover of conifer trees, catching our breath and hiding from as many raindrops as we could.
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/2016-06-09-sitting-under-trees.jpg" alt="" width="100%" /></p>
 
@@ -25,7 +25,7 @@ About halfway up the trail we reached a meadow, and with the sun shining for a b
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/2016-06-09-misty-meadows.jpg" alt="" width="100%" /></p>
 
-We continued on to the "Big Tree,"" which is the widest Douglas fir known in Oregon. We set up the drone again, only to be thwarted by the battery temperature problem. Again. We hung out with the Big Tree for a good 30 to 45 minutes, eating lunch and talking, before we started back down the other side of the loop.
+We continued on to the "Big Tree," which is the widest Douglas fir known in Oregon. We set up the drone again, only to be thwarted by the battery temperature problem. Again. We hung out with the Big Tree for a good 30 to 45 minutes, eating lunch and talking, before we started back down the other side of the loop.
 
 <p><img src="https://s3.amazonaws.com/drone-recovery/2016-06-09-big-tree-drone.jpg" alt="" width="100%" /></p>
 
