@@ -43,6 +43,8 @@ In addition to working on the Big Tree Loop Trail, during that summer of 1986, I
 
 It made me happy that this work, something that influenced me greatly, was being paid forward in a different way: almost 30 years later, this work marks the stop where we take off on this important journey.
 
+(You can find more photos from our hike <a href="http://dronerecovery.org/gallery/bigtree_may2016/">here</a>.)
+
 
 
 
