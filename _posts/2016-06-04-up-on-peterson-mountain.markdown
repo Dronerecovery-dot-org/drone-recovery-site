@@ -8,7 +8,7 @@ date:       2016-06-04
 author:     "Kin Lane"
 header-img: "img/postcover/peterson_mountain.jpg"
 tags: [peterson mountain, quartz, reno, nevada, california]
-categories: [hiking, flying]
+categories: [hiking, flying, mining]
 comments: false
 ---
 May 15 - 18
