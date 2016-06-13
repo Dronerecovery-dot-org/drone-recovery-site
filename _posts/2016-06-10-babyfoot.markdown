@@ -7,7 +7,7 @@ image:
 date:       2016-06-10
 author:     "Kin Lane"
 header-img: "img/postcover/babyfoot.jpg"
-tags: [oregon, babyfoot lake, kalmiopsis wilderness, biscuit fire, rain, axe, eight dollar road]
+tags: [oregon, babyfoot lake, kalmiopsis wilderness, drone, biscuit fire, rain, axe, eight dollar road]
 categories: [hiking, clearing]
 comments: false
 ---

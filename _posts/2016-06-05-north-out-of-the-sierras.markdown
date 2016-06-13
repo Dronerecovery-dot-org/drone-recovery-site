@@ -7,7 +7,7 @@ image:
 date:       2016-06-05
 author:     "Kin Lane"
 header-img: "img/postcover/into_oregon.jpg"
-tags: [peterson mountain, hitchhiker, car, pacific crest trail, reno, shasta, nevada, california, oregon, grants pass, illinois valley]
+tags: [peterson mountain, hitchhiker, car, drone, pacific crest trail, reno, shasta, nevada, california, oregon, grants pass, illinois valley]
 categories: [traveling]
 comments: false
 ---

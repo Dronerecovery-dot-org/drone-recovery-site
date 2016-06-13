@@ -7,7 +7,7 @@ image:
 date:       2016-06-11
 author:     "Kin Lane"
 header-img: "img/postcover/diamondcreek.jpg"
-tags: [illinois valley, oregon, kalmiopsis wilderness, car, diamond creek, snow, waterfall, memorial day]
+tags: [illinois valley, oregon, drone, kalmiopsis wilderness, car, diamond creek, snow, waterfall, memorial day]
 categories: [hiking, camping, swimming, flying]
 comments: false
 ---

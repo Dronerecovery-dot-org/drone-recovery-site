@@ -7,7 +7,7 @@ image:
 date:       2016-06-09
 author:     "Kin Lane"
 header-img: "img/postcover/big_tree.jpg"
-tags: [oregon, oregon caves national monument, rain, peterson mountain, big tree loop trail, coffee, douglas fir, national park service]
+tags: [oregon, oregon caves national monument, drone, rain, peterson mountain, big tree loop trail, coffee, douglas fir, national park service]
 categories: [hiking, flying]
 comments: false
 ---

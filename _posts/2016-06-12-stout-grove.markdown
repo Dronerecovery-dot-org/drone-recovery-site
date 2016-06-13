@@ -7,7 +7,7 @@ image:
 date:       2016-06-12
 author:     "Kin Lane"
 header-img: "img/postcover/stoutgrove.jpg"
-tags: [stout grove, california, car, redwoods, crescent city, hitchhiker, oregon, brookings, jedidiah smith redwoods state park, ferns, gopro]
+tags: [stout grove, drone, california, car, redwoods, crescent city, hitchhiker, oregon, brookings, jedidiah smith redwoods state park, ferns, gopro]
 categories: [hiking, flying]
 comments: false
 ---
