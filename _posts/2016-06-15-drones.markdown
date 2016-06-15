@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "The Drone"
+subtitle:   "Spending My Days Thinking about Drones"
+image:
+  feature: "drone.jpg"
+date:       2016-06-15
+author:     "Kin Lane"
+header-img: "img/postcover/drone.jpg"
+tags: [drone, addiction]
+categories: [hiking, flying]
+comments: false
+---
+I have spend the last month thinking about drones, those unmanned aircraft you are probably hearing so much about lately. 
+
+My drone project, which we are calling "<a href="http://dronerecovery.org/journal/drone-recovery/">Drone Recovery</a>" has developed rather rapidly and without much formal planning. That being said, I have purchased the drone that, at the time, was the easiest for me to acquire: a <a href="http://www.dji.com/product/phantom-3-pro">DJI Phantom 3 Pro</a> (the pro version chosen specifically because of the camera). I am very happy with my decision, but I'm not sure what the future will hold when it comes to which drones I will be flying (if any).
+
+I went into this project with a great deal of skepticism about everything drone. The way our military is using this technology disturbs me, and I have very little faith that our society has the critical skills to use drones in a sensible way. But I decided to put aside some of my preconceived notions of drones in order to take a fresh look at how I might be able use what is no doubt an interesting piece of technology. 
+
+Right now, our work here at Drone Recovery is focused on hiking in the wilderness, on keeping an eye out for opportunities to fly the drone, and on capturing interesting videos and photographs. I have purposefully targeted remote areas in the beginning of our journey, to keep the kid as far away from people as possible, increasing the number of miles we walk each day, and discovering remote opportunities for operating the drone.
+
+My drone experiences are almost all positive right now. I'm flying in beautifully remote areas, staying away from people and private land, and using the video and GPS data the drone generates to document trails, rivers, mountains, trees, and the like. I am purposefully staying away from the negative aspects of drones and emphasizing the good.
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/bolanlake21.jpg" alt="" width="100%" /></p>
+
+Drone Recovery is focused on being in the wilderness with a now 23-year-old young man who has spent the better part of the last five years in a pharmaceutical cloud playing games and living on the Internet. Long hikes in the wilderness are slowly pushing the kid to wake up, but I needed other ways to stimulate his brain activity, to reopen the wiring between his hand and his brain. I chose drones because it was the most familiar to his gaming background, potentially keeping his interest. But flying drones was also something we could do way out in the wilderness, and along the way, it could build skills he could use in the future.
+
+It has been interesting to watch him fly drones in a variety of landscapes. Sometimes we will walk 5, 10, or 15 miles as part of our day, stopping along the way to fly the drone in mountain meadows, remote canyons, or the tall redwoods. When we find a suitable spot, I will unpack and set up the drone, and okay the kid for flight. After that, it is up to him. He usually crawls into the front seat of the car (if available) or under a bush or rocky crag so he can focus on the iPad-enabled controller. (True, that iPad means that the glare from the sun can make flying tricky.)
+
+His approach to flying the drone is very different from mine. He is 98% unaware of the drone as a physical object, and he focuses on the controller and the screen and what the drone can see. Me, I focus on the drone itself probably 75% of the time and less on what is on the screen. I know when you fly long range you just can't see or hear the drone and focusing on the drone all the time just isn't a reality. However, I can't help but feel there is an important connection (or conflict perhaps) between the attention we pay to the virtual and physical aspects of flying a drone. 
+
+I'm still trying to get to a point on this journey -- mentally and physically -- where I have the bandwidth to think more about this, and I will be blogging more about the drone side of things in the future. Eventually I will have to start thinking more about the negative consequences of drones when it comes to surveillance, privacy, and other unforeseen consequences I (we) haven't considered. For now, I find the technology fascinating, really representing the evolution, as well as convergence of radio controlled (RC), video/camera, compute, and Internet technologies, and I'm enjoying playing with this all very much.
