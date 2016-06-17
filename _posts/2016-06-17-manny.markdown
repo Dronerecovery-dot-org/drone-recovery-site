@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "Thinking of You"
+subtitle:   "(For Manny)"
+image:
+  feature: "manny.jpg"
+date:       2016-06-17
+author:     "Kin Lane"
+header-img: "img/postcover/manny.jpg"
+tags: [addiction, cobol, san francisco, eugene, oregon, grateful dead, california]
+categories: [traveling]
+comments: false
+---
+Drone Recovery is about my recovery as well as about "the kid's." Early on in this journey I wanted to make sure we amplified my part of the story simply to give the kid the time and space he will need before he is ready to tell his. I have already talked about my own drug use, and a little about how I established <a href="http://dronerecovery.org/journal/stronger/">this approach to recovery</a>, but this post I wanted to talk a little about how my drug use affected others.
+
+One of my closest friends growing up was Emmanuel Clapp (aka Manny). We'd known each other pretty much our whole lives, but we got closer in Mr. Smith's math class during high school, and then eventually in Mr. Smith's newly formed computer classes. I looked up to Emmanuel when it came to computers, and he encouraged me when it came to learning how to program -- which I admit, I was much better at than math. 
+
+Our junior year in high school, a small educational company called Mt Rose Software came to Mr. Smith looking for a possible employee. Mr. Smith recommended me. I began working at the company, first putting software on floppy disks for distribution, then doing data entry and quality assurance, and eventually programming student information systems in COBOL. I was making $7.50 an hour back when I believe the minimum wage was still only $3 or $4.
+
+Then, in 1989, at the beginning of my senior year in high school, I got kicked out of school by the principal. It had nothing to do with my behavior or my grades. The principal had a habit of wandering around the cafeteria and rubbing people's shoulders, and one time he came up behind me and grabbed my shoulders and I thought it was my friend and I spun around and punched. He quickly hauled me to the office, went through my records, saw I had over 14 absences (I'd missed two weeks of school for strep throat), and expelled me. 
+
+As I'd been kicked out of high school, I immediately lost my job. As a result, I got bored in my small town, and I headed south for San Francisco, where I got into other trouble (that's another story). With a vacancy open, Mt Rose Software asked Mr. Smith for another job candidate, and Emmanuel got the position. He worked there for some time before the company went out of business. Manny and I remained friends, and we became even closer through our increasing drug use. We enjoyed hanging out, getting high, and programming, just as the Internet was getting going back in early to mid 1990s. 
+
+During this time I was on the road a lot, traveling the country on Grateful Dead tour, but when I'd come through town, I always hung out with Manny. On one of these occasions, I gave him his first taste of heroin. It didn't seem like much at the time. We were good friends, and we felt like we knew the ropes and could handle our shit. I kept coming by for years, and nothing ever seemed too out of control (ha! like I was a good judge of character). 
+
+In 1996 through 1998 I worked hard to get my life together and to extract myself from a very toxic life cycle. I saw Manny less as I wandered around the woods in Oregon and Northern California, as I purposefully tryied to avoid people from my previous world. One day, after I'd moved to Eugene, Oregon to officially start over, I got a voice mail (on a pager) from him simply saying he needed me to come over -- right now! I never went, and I never called him back. I just went on about my business.
+
+SHortly afterwards, someone called me with the news that Manny had died in a shootout in Kansas with police. In a heroin-addicted delusion, Manny had killed another friend of ours back in Oregon, got a front from his dealer for a bunch of heroin, took all his cash and got on a Greyhound bus for the east coast. During a stop in Kansas the police searched the bus, found out he had a gun, confronted him, and shot him dead.
+
+I helped lower Manny into his grave at the funeral, where his mother told me that she knew I had been the one to first give him heroin. I was already well on my way to rebooting my life, and launching my software engineering career in Eugene by this time -- it was a life which I went back to without looking back. I simply added all my feelings and emotion that I had on all of this to the "furnace" fueling my new Internet programming career. It is one of the things that still keeps the fire going inside me, both because Manny helped me develop my programming abilities, but also because I contributed to the one person I looked up to not being in my life anymore.
+
+I visited his grave the other day, and I spent some time hanging out there. I introduced him to the kid and told the kid this story —- it is something he needs to hear. I'm thankful for this time to think through this part of my own recovery and to share this publicly (something I've never done). I totally blame myself for Manny's death, but not in the way you might think. Manny was a "soldier," he knew what he was doing. He wouldn't blame me, and I wouldn't blame him if things were reversed. Nevertheless this is a heavy weight to carry around for twenty years, even if my experiences are something I keep in my back pocket to motivate me. 
+
+My work here with Drone Recovery, along with thinking about Manny, is giving me some serious time to contemplate about why I have a 20+ year software career. I owe it to Manny, both in life and in death, I guess. I am still trying to figure out what any of this means in the context of being <a href="http://apievangelist.com">API Evangelist</a>, or what I’ve done with my career as a software architect.
+
+I love you, Manny. I hope you like what I am doing. And I miss you. 
+
