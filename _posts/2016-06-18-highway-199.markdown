@@ -1,0 +1,34 @@
+---
+layout:     post
+title:      "Following Highway 199"
+subtitle:   "Along the Smith River"
+image:
+  feature: "199.jpg"
+date:       2016-06-18
+author:     "Kin Lane"
+header-img: "img/postcover/199.jpg"
+tags: [car, brookings, highway 199, smith river, sourdough camp, oregon, california, road construction, drone]
+categories: [traveling, flying]
+comments: false
+---
+May 30
+
+With the work completed on the car in Brookings, we headed back inland via Highway 199 along the Smith River. <a href="http://dronerecovery.org/journal/sourdough/">Sourdough Camp</a> is the headwaters of the Smith River, and as the river winds its way out of Oregon and into California, it carves out some pretty amazing canyons, which we enjoyed on our drive.
+
+The narrow and curvy Highway 199 is under construction in several places right now, which reduces traffic down to one lane. I noticed cars braking for the flagman, and I saw an opportunity to pull off on a turnout alongside one of the most beautiful canyons in this stretch of the road. This spot provide us with enough room to pull the car over, as well as to allow the drone to take off and fly.
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/smith-river-blog-car-turnout.jpg" alt="" width="100%" /></p>
+
+The kid took the drone over the thin line of trees between us and the road and began flying upstream catching the Smith River flowing through the rocky canyons, capturing some pretty stunning shots of one of my favorite rivers.
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/smith-river-blog-upstream.jpg" alt="" width="100%" /></p>
+
+Once he reached the upstream limits of the drone, he turned around and began capturing the downstream shot. We are still struggling with getting things in the best lighting, but I still think the footage is worth showcasing here. The lighting was best when the drone was traveling upstream that day, with the second upstream shot being my favorite.
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/xpaFQerz9Hs" frameborder="0" allowfullscreen></iframe></p>
+
+This was a totally unplanned shoot, and the kid is getting better at just pulling over, setting up the drone, sitting in the passenger seat and getting the shot we need. He then quickly brings the drone home and we pack up and move on. This time he landed it perfectly alongside a growing line of traffic waiting for the road to clear (and watching us fly).
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/smith-river-blog-drone-landing.jpg"  alt="" width="100%" /></p>
+
+(You can see more drone footage from along Highway 199 <a href="http://dronerecovery.org/video/smith_may2016/">here</a>.)
