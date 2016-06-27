@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "The Wind"
+subtitle:   "Our Biggest Concern as We Fly the Drone"
+image:
+  feature: "dunes.jpg"
+date:       2016-06-27
+author:     "Kin Lane"
+header-img: "img/postcover/dunes.jpg"
+tags: [oregon, drone, wind, john dellenback dunes trail, coos bay, crash, dunes]
+categories: [flying, hiking]
+comments: false
+---
+June 14
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/blog-wind-sand-dunes.jpg" alt="" width="100%" /></p>
+
+The Oregon dunes are renowned for their beautiful, expansive seas of sand. But on the day we hiked the John Dellenback Dunes Trail, outside Coos Bay, those seas of sand were incredibly windy as well. 
+
+We hiked about a mile in, but it was very slow moving slogging our way through the sand. 
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/blog-wind-sandy-trails2.jpg" alt="" width="100%" /></p>
+
+After reaching the crest of one of the dunes, I decided I'd had enough of walking in the sand. I just wanted to play with the drone. I thought it would be a great chance to understand more of the drone's capabilities, particularly when it came to flying in the wind. If, indeed, the wind caused a crash, at least the drone would land in the sand and not on a rock or in a river. 
+
+The take-off:
+
+<p><iframe width="1280" height="720" src="https://www.youtube.com/embed/zkOF7Phdh6c" frameborder="0" allowfullscreen></iframe></p>
+
+After another attempt the drone did get up in the air successfully. It was definitely working pretty hard to maintain its position, but I didn't crash it. The flight made me more confident in what the drone could actually do in these sorts of conditions. Obviously, one key is to make sure you have even more distance between you and any potential obstacles, as the drone will be moving around quite a bit trying to maintain its location.
+
+<p><img src="https://s3.amazonaws.com/drone-recovery/blog-wind-dune-tree.jpg" alt="" width="100%" /></p>
