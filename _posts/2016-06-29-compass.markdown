@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Calibrating"
-subtitle:   "Our Compasses"
+title:      "Calibrating Our Compasses"
+subtitle:   "Our Sense of Direction"
 image:
   feature: "compass.jpg"
 date:       2016-06-29
@@ -11,6 +11,6 @@ tags: [drone, compass]
 categories: [flying]
 comments: false
 ---
-When you first unpack one of the DJI Phantom 3 drones -- this is what we at Drone Recovery use, and yes, we now have two -- the first thing you have to do is calibrate its compass. You do this by holding it in an upright position with your arms extended and rotating in a circle counterclockwise. Then you flip the drone on its side and repeat the same counter clockwise motion. Once you've done this, you are safe to fly.
+When you first unpack one of the DJI Phantom 3 drones -- this is what we at Drone Recovery use, and yes, we now have two -- the first thing you have to do is calibrate its compass. <a href="https://youtu.be/DHCDJKChXTE">You do this</a> by holding it in an upright position with your arms extended and rotating in a circle counterclockwise. Then you flip the drone on its side and repeat the same counter clockwise motion. Once you've done this, you are safe to fly.
 
 During every hike and swim we have done over the course of the last six weeks, I have thought about this process. I feel like both the kid’s and my compasses are off, and we've needed to recalibrate this summer. Each hike and destination has provided us a piece of the calibration process, and after six weeks of this, I feel like our compasses have been calibrated -- at least enough so that it is safe to fly.
