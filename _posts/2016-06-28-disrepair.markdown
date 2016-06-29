@@ -3,10 +3,10 @@ layout:     post
 title:      "Trail Recovery"
 subtitle:   "The Terrible Conditions of Our Public Trail System"
 image:
-  feature: " .jpg"
+  feature: "disrepair.jpg"
 date:       2016-06-28
 author:     "Kin Lane"
-header-img: "img/postcover/ .jpg"
+header-img: "img/postcover/disrepair.jpg"
 tags: [axe, bureau of land management, forest service]
 categories: [hiking, clearing]
 comments: false
