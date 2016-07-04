@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Trash in the Woods"
-subtitle:   "Why"
+subtitle:   "Why?!"
 image:
   feature: "trash.jpg"
 date:       2016-07-04
@@ -23,7 +23,7 @@ We are hauling out beer cans from swimming holes...
  
 Some people also seem to enjoy drinking a beer while hiking. And hen just chuck the empty out onto the trail. WTF?
 
-<p><img src="https://s3.amazonaws.com/drone-recovery/trash_blog91.jpg" alt="" width="100%" /></p>
+<p><img src="https://s3.amazonaws.com/drone-recovery/trash_blog_91.jpg" alt="" width="100%" /></p>
 
 People seem to go out to the woods, find a picnic table to eat their lunch, and just leave all their leftovers behind.
 
