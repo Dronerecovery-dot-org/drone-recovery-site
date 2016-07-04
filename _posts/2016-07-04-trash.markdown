@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Trash in the Woods"
+title:      "Trashing the Woods"
 subtitle:   "Why?!"
 image:
   feature: "trash.jpg"
