@@ -1,0 +1,24 @@
+---
+layout:     post
+title:      "Encountering More Pushback"
+subtitle:   "Because of Badly Behaved Drone Operators"
+image:
+  feature: "closed.jpg"
+date:       2016-08-01
+author:     "Kin Lane"
+header-img: "img/postcover/closed.jpg"
+tags: [drone, oregon]
+categories: [flying]
+comments: false
+---
+When we started this journey I made sure that we were operating the drone as far out in the wilderness as I possibly could. I was aware of negative views on drones, and I had read stories of badly behaved drone operators. I wanted to avoid as much of this friction as I could in our journey.
+
+As I exhausted many of the remote wilderness destinations I knew, it was inevitable that I would encounter more people. Almost all of these encounters have been overwhelmingly positive. People are interested in drones, in what they can do, and some have their own aspirations to own and operate a drone.
+
+Moving into our eighth week we found ourselves in eastern Oregon, and we encountered several areas which were marked "no drone zones." We also heard many new stories of badly behaved drone operators from people I spoke with. We heard stories of drone harassment in neighborhoods, and we heard stories of drones interfering with forest fire operations. 
+
+This brand new industry is being defined by the most badly behaved, it seems, from the average jack-ass citizen all the way up to the US military around the world. I knew that I would encounter negative energy around drones when I got into this, but it bummed me out more than I thought it would, when I encountered being shut down completely. 
+
+I'm a pretty quiet person, and usually I do not get loud about any topic that I can't get behind 100%, so I find it difficult to push forward with the drone cause. I appreciate people's concerns.
+
+You won't find me evangelizing drones like I have been evangelizing APIs. I just can't get worked up enough to fight. I will be tracking on the good and the bad of drone usage, the regulations, and beyond. I'm kind of fascinated by it (like a train wreck, I guess), and curious how it will all unfold. I think drones might set a precedent for how the numerous other devices which we are connecting to the Internet will be perceived.
