@@ -7,8 +7,8 @@ image:
 date:       2020-05-25
 author:     "Kin Lane"
 header-img: "img/the-kid/G0520550.jpeg"
-tags: [intro]
-categories: [explaining, traveling]
+tags: [Goodbye]
+categories: [Making Sense, WTF Happened]
 comments: false
 ---
 We received a call recently letting us know that we had lost the kid. He left this world. We were unable to fully recover this drone. ;-( <3 ;-( After several days of processing it all, I wanted to write a drone recovery blog post remembering the kid and sharing my view of our journey. Writing helps me process and deal with it all, and hopefully continuing the healing that Drone Recovery has brought for me, while also acknowledging it also fell short of helping the kid find his way. While I feel immense regret that I couldn’t do more to help the kid, I am confident I gave him everything I had to give when it came to the recovery toolbox I have access to. It frustrates me that I couldn’t help the kid find his way, but I am thankful I managed to find a moment in time where I was able to connect with him. That moment is called Drone Recovery.
