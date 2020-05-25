@@ -3,10 +3,10 @@ layout:     post
 title:      "A Drone Recovery Post to Remember the Kid"
 subtitle:   "Get Some Rest"
 image:
-  feature: "img/the-kid/G0520550.jpeg"
+  feature: "http://dronerecovery.org/img/the-kid/G0520550.jpeg"
 date:       2020-05-25
 author:     "Kin Lane"
-header-img: "img/the-kid/G0520550.jpeg"
+header-img: "http://dronerecovery.org/img/the-kid/G0520550.jpeg"
 tags: [Goodbye]
 categories: [Making Sense, WTF Happened]
 comments: false
