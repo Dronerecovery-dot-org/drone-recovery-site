@@ -3,7 +3,7 @@ layout:     post
 title:      "A Drone Recovery Post to Remember the Kid"
 subtitle:   "Get Some Rest"
 image:
-  feature: "swinging-bridge-cov.jpg"
+  feature: "img/the-kid/G0520550.jpeg"
 date:       2020-05-25
 author:     "Kin Lane"
 header-img: "img/the-kid/G0520550.jpeg"
