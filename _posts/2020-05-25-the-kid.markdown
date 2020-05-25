@@ -3,10 +3,10 @@ layout:     post
 title:      "The Kid"
 subtitle:   "Photos"
 image:
-  feature: "http://dronerecovery.org/img/the-kid/IMG_3312 (1).jpeg"
+  feature: "IMG_3312 (1).jpeg"
 date:       2020-05-25
 author:     "Kin Lane"
-header-img: "http://dronerecovery.org/img/the-kid/IMG_3312 (1).jpeg"
+header-img: "IMG_3312 (1).jpeg"
 tags: [intro]
 categories: [explaining, traveling]
 comments: false
