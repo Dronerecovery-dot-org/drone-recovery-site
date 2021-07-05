@@ -1,0 +1,68 @@
+---
+layout:     post
+title:      "The Kid"
+subtitle:   "Photos"
+image:
+  feature: "IMG_3312 (1).jpeg"
+date:       2020-05-25
+author:     "Kin Lane"
+header-img: "IMG_3312 (1).jpeg"
+tags: [intro]
+categories: [explaining, traveling]
+comments: false
+---
+
+Some of the photos of the kid from along the trail in 2016 that he'd let me snap, or I'd take without his permission.
+
+<img src="" width="100%">
+
+<p><img src="/img/the-kid/IMG_3033.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/drone-skills.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0004 (12).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0009 (24).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0028.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0035 (21).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0043 (18).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0045 (18).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0054 (8).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0094.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0106.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0112.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0115.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0119.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0165.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0168.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0195.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0196.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/DSC_0197.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/G0030472.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/G0040178.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/g0120486_35890469444_o.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/g0520270_36329964230_o.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/G0520550.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/G0550553.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/G0700574.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/GOPR0453.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/GOPR0458.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/GOPR0464.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/img_3010_36678521406_o.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3023.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3031.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3032.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3114.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3115.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3121.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3122.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3128.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3152.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3175.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3182.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3183.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3203.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3238 (1).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3255.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3312 (1).jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3475.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3536.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3562.jpeg" width="100%"></p>
+<p><img src="/img/the-kid/IMG_3566.jpeg" width="100%"></p>
