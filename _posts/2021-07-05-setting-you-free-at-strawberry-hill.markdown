@@ -3,10 +3,10 @@ layout:     post
 title:      "Setting You Free at Strawberry Hill"
 subtitle:   "Strawberry Hill"
 image:
-  feature: "img/strawberry-hill/strawberry-hill-side.jpeg"
+  feature: "/img/strawberry-hill/strawberry-hill-side.jpeg"
 date:       2021-07-05
 author:     "Kin Lane"
-header-img: "img/strawberry-hill/strawberry-hill-side.jpeg"
+header-img: "/img/strawberry-hill/strawberry-hill-side.jpeg"
 tags: [intro]
 categories: [explaining, traveling]
 comments: false
